@@ -120,10 +120,6 @@ section ul {
 
 img.phone {
 	margin: 50px 0 0 15px;
-	/* padding: 10px;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #00000011; */
 	border-radius: 15px;
 	background-color: white;
 	display: inline-block;
@@ -131,6 +127,7 @@ img.phone {
 	position: relative;
 	left: 25px;
 	bottom: 200px;
+	z-index: 100;
 }
 
 h3 {
