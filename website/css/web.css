@@ -127,7 +127,7 @@ img.phone {
 	position: relative;
 	left: 25px;
 	bottom: 200px;
-	z-index: 100;
+	z-index: -100;
 }
 
 h3 {
